@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ernesto13/nyt-react#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12"
   }
 }
