@@ -1,0 +1,24 @@
+{
+  "name": "nyt-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernesto13/nyt-react.git"
+  },
+  "author": "Ernesto Samaniego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernesto13/nyt-react/issues"
+  },
+  "homepage": "https://github.com/ernesto13/nyt-react#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3"
+  }
+}
