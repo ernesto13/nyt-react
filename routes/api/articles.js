@@ -1,6 +1,6 @@
 const axios = require("axios");
 const router = require("express").Router();
-const nytController = require("../controllers/nytController");
+const nytController = require("../../controllers/nytController");
 
 router.get("/articles", (req, res) => {
 
